@@ -24,7 +24,7 @@ var SPhcon ={
         {
             name:"Đồ Chơi Mô Hình Pokemon - Takara Tomy MS-05 - Sobble (Messon)",
             img:"img/ếch khóc nhè.jpg",
-            tien:"55.000"
+            tien:"55.000",
         },
     ]
 }

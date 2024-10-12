@@ -1,0 +1,88 @@
+.h1{
+    display: flex;
+    justify-content: center;
+}
+.ảnh{
+    display: flex;
+    justify-content: center; 
+}
+/* nav */
+.nav img {
+    /* margin-top: 5px; */
+    object-fit: cover;
+    width: 85px;
+    height: 85px;
+    border-radius: 120px;
+    /* margin-left: 20px; */
+}
+
+.nav p {
+    line-height: 1.5;
+    color: white;
+}
+
+.nav {
+    background-color: rgb(255, 49, 49);
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navimg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.chu {
+    display: flex;
+    justify-content: space-between;
+    font-size: larger solid 2;
+}
+
+.chu a {
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px ;
+    line-height: 2.5;
+    color: white;
+}
+
+.icon {
+    font-size: xx-large;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon a {
+    text-decoration: none;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+
+.kl {
+    margin-right: 15px;
+}
+
+.xekeo {
+    margin-right: 15px;
+}
+
+.cau {
+    margin-right: 15px;
+}
+
+.dt {
+    margin-right: 15px;
+}
+
+.ngdung {
+    margin-right: 15px;
+}
+.gioithieu{
+    margin-left: 50px;
+    margin-top: 30px;
+}

@@ -69,11 +69,13 @@ var loaiSP
 var SP ={
     data:[
         {
+            id: 1,
             name:"Đồ Chơi Mô Hình Pokemon - Takara Tomy MS-04 - Fuecoco (Hogeita)",
             img:"img/fuecoco2.jpg",
             tien:"65.000",
         },
         {
+            id:2,
             name:"Đồ Chơi Mô Hình Pokemon Moncolle - Takara Tomy MS-40 - Zarude",
             img:"img/khỉ huyền thoại.jpg",
             tien:"60.000",
